@@ -4,12 +4,12 @@ Welcome to Ostrich AI – your pioneering platform dedicated to democratizing AI
 
 ## Our Platform
 
-Ostrich AI offers innovative solutions for secure data sharing and privacy-preserving machine learning. By integrating blockchain technology, we ensure data integrity and enable collaborative AI-ML computations without compromising on security.
+Ostrich AI offers innovative solutions for secure data sharing and privacy-preserving machine learning. By integrating blockchain technology, we ensure data integrity and enable collaborative AI-ML computations without compromising on security. Join the waitlist for exploring our upcoming engagements [here](https://forms.gle/QutyfY1PvPQEEu2r6).
+
 
 ## Datathons
 
-One of our flagship offerings is **Datathon as a Service**, engaging top talent through competitive events focused on solving real-world challenges. These datathons foster innovation, allowing participants to showcase their skills and collaborate with like-minded data enthusiasts.
-
+One of our flagship offerings is **Datathon as a Service**, engaging top talent through competitive events focused on solving real-world challenges. These datathons foster innovation, allowing participants to showcase their skills and collaborate with like-minded data enthusiasts. 
 ## Research
 
 In the dynamic landscape of digital data sharing, Ostrich AI empowers enterprises to:
@@ -19,7 +19,7 @@ In the dynamic landscape of digital data sharing, Ostrich AI empowers enterprise
 
 ## Community
 
-At the core of Ostrich AI is our vibrant Data Scientist Community. We provide a collaborative environment for data enthusiasts to tackle challenging projects and solve real-world problems.
+At the core of Ostrich AI is our vibrant Data Scientist Community. We provide a collaborative environment for data enthusiasts to tackle challenging projects and solve real-world problems. Join our community and stay updated with the latest events and opportunities by signing up on our [community page](https://nas.io/ostrich-ai).
 
 ## Team
 
