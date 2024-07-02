@@ -31,7 +31,7 @@ We welcome contributions from all enthusiasts! Check out our [Contribution Guide
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GNU GENERAL PUBLIC LICENSE](LICENSE).
 
 ## Code of Conduct
 
