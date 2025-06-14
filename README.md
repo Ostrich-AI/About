@@ -1,5 +1,3 @@
-# Ostrich AI
-
 ## About Us
 
 Ostrich AI is a full-stack platform built to solve the biggest blockers in enterprise AI: **data privacy**, **infrastructure cost**, and **AI talent availability**.
